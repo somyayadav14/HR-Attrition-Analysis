@@ -1,0 +1,11 @@
+EmployeeID,Department,JobRole,Age,Gender,MonthlySalary,ExperienceYears,PerformanceRating,Attrition
+1001,IT,Software Engineer,26,F,35000,2,3,Yes
+1002,HR,HR Executive,29,M,28000,4,4,No
+1003,Finance,Analyst,35,F,55000,9,3,Yes
+1004,IT,Data Analyst,31,M,48000,6,4,No
+1005,Sales,Sales Executive,27,F,30000,3,2,Yes
+1006,Sales,Manager,41,M,75000,15,4,No
+1007,IT,Software Engineer,24,M,32000,1,2,Yes
+1008,Finance,Manager,45,F,82000,20,5,No
+1009,HR,Recruiter,28,F,29000,4,3,Yes
+1010,IT,Data Scientist,34,M,68000,8,4,No
